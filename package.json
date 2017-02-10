@@ -1,22 +1,18 @@
 {
-  "name": "lagi",
+  "name": "reactpro",
   "version": "1.0.0",
-  "description": "coba lagi",
+  "description": "ada aja",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/firmanpurnama/coba_react.git"
-  },
   "author": "seseorang",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/firmanpurnama/coba_react/issues"
-  },
-  "homepage": "https://github.com/firmanpurnama/coba_react#readme",
   "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "webpack": "^2.2.1",
